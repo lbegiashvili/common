@@ -1,2 +1,6 @@
+first = input("first: ")
+second = input("second: ")
 
-print("Hello world")
+sum = float(first) + float(second)
+
+print ("Sum: " + str(sum))
